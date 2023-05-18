@@ -7,8 +7,9 @@
     background-color: #383d58;
     color: white;
     display: flex;
-    justify-content: space around;
+    justify-content: space-around;
     padding:24px 6;
+    justify:
 }
 
 .cabecalho-imagem{
